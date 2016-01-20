@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orleans.Demo.Implements", "Orleans.Demo.Implements\Orleans.Demo.Implements.csproj", "{E47A3C0D-EFFC-4174-BDDE-6786324B4795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orleans.Demo.Interfaces", "Orleans.Demo.Interfaces\Orleans.Demo.Interfaces.csproj", "{57B05856-D4EC-474D-86DF-1F612F75F752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orleans.Demo.Server", "Orleans.Demo.Server\Orleans.Demo.Server.csproj", "{67D49889-CFDC-41E5-8894-4FCDC3A59CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orleans.Demo.Client", "Orleans.Demo.Client\Orleans.Demo.Client.csproj", "{F7788CA0-E15A-4C0C-8660-AE2C8056100E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47A3C0D-EFFC-4174-BDDE-6786324B4795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47A3C0D-EFFC-4174-BDDE-6786324B4795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47A3C0D-EFFC-4174-BDDE-6786324B4795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47A3C0D-EFFC-4174-BDDE-6786324B4795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B05856-D4EC-474D-86DF-1F612F75F752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B05856-D4EC-474D-86DF-1F612F75F752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B05856-D4EC-474D-86DF-1F612F75F752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B05856-D4EC-474D-86DF-1F612F75F752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D49889-CFDC-41E5-8894-4FCDC3A59CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D49889-CFDC-41E5-8894-4FCDC3A59CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D49889-CFDC-41E5-8894-4FCDC3A59CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D49889-CFDC-41E5-8894-4FCDC3A59CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7788CA0-E15A-4C0C-8660-AE2C8056100E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7788CA0-E15A-4C0C-8660-AE2C8056100E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7788CA0-E15A-4C0C-8660-AE2C8056100E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7788CA0-E15A-4C0C-8660-AE2C8056100E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
